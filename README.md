@@ -2,6 +2,10 @@
 MC指令文件高亮增强 (MT管理器)
 
 ## 如何使用？
+从这里下载：
+
+`http://xxxxxx.xxxxxx.xxxxxx/xxxxxx`
+
 ...
 
 
