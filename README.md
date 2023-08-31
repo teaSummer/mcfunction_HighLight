@@ -29,7 +29,7 @@ https://www.123pan.com/s/vhjA-ndYsH.html
 #### 黑暗模式与明亮模式：
 
 ![黑暗模式](https://img1.imgtp.com/2023/08/31/tTrPboR8.png)
-![明亮模式]()
+![明亮模式](https://img1.imgtp.com/2023/08/31/6z7ruGqY.png)
 
 
 ## 最后
