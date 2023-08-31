@@ -7,11 +7,7 @@ MC指令文件高亮增强 (MT管理器)
 
 （准确而言，这是MT的语法文件）
 
-或者下载（123云盘）：
-
-https://www.123pan.com/s/vhjA-fdYsH.html
-
-又或者（OneDrive）：
+或者通过 `OneDrive` 下载：
 
 https://1drv.ms/u/s!As48rcbAKccwkAAaQXU_RuTW68w7
 
