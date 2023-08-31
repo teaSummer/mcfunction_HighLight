@@ -24,6 +24,15 @@ https://www.123pan.com/s/vhjA-ndYsH.html
 
 这将会让它变得丰富多彩！
 
+### 效果示例图
+
+黑暗模式：
+[![黑暗模式](https://img1.imgtp.com/2023/08/31/N8pcVGpk.jpg)](https://img1.imgtp.com/2023/08/31/N8pcVGpk.jpg)
+
+明亮模式：
+[![明亮模式](https://img1.imgtp.com/2023/08/31/kd28m7QM.jpg)](https://img1.imgtp.com/2023/08/31/kd28m7QM.jpg)
+
+
 ## 最后
 
 最新版 版本号：2.3.0
