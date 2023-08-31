@@ -19,3 +19,5 @@ https://1drv.ms/u/s!As48rcbAKccwkAAaQXU_RuTW68w7
 版本号：2.3.0
 
 日期：2023.8.31
+
+感谢使用！
