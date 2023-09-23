@@ -26,9 +26,8 @@ https://www.123pan.com/s/vhjA-ndYsH.html
 
 ### 效果示例图
 
-#### 黑暗模式与明亮模式：
-
 [黑暗模式](https://img1.imgtp.com/2023/08/31/tTrPboR8.png)
+与
 [明亮模式](https://img1.imgtp.com/2023/08/31/6z7ruGqY.png)
 
 
