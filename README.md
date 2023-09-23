@@ -30,6 +30,9 @@ https://www.123pan.com/s/vhjA-ndYsH.html
 与
 [明亮模式](https://img1.imgtp.com/2023/08/31/6z7ruGqY.png)
 
+## 注意
+
+`MT管理器`的版本必须在`v2.11.1`及以上！推荐使用`v2.14.0`及以上的版本
 
 ## 最后
 
