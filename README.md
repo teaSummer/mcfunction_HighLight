@@ -40,6 +40,6 @@ https://www.123pan.com/s/vhjA-ndYsH.html
 
 最新版 日期：2023.8.31
 
-*感谢使用！* 有问题记得反馈喔！
+*感谢使用！* 有问题记得[反馈](https://github.com/teaSummer/mcfunction_HighLight/issues)喔！
 
 希望您能喜欢！
