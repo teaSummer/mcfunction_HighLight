@@ -44,3 +44,5 @@ MC指令文件高亮增强 (`MT管理器`)
 *感谢使用！* 有问题记得[反馈](https://github.com/teaSummer/mcfunction_HighLight/issues/new)喔！
 
 希望您能喜欢！
+
+感谢每一位使用者、聆听者、贡献者！
