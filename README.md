@@ -12,7 +12,7 @@ MC指令文件高亮增强 (`MT管理器`)
 
 或通过 `123云盘` 链接进行下载：
 
-https://www.123pan.com/s/vhjA-ndYsH.html
+[https://www.123pan.com/s/vhjA-ndYsH.html](https://www.123pan.com/s/vhjA-ndYsH.html)（非`.mtsx`文件请重命名）
 
 ### 使用
 
