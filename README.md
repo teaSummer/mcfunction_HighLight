@@ -3,6 +3,7 @@ MC指令文件高亮增强 (`MT管理器`)
 
 （确切地说，是`MT管理器`的语法文件）
 
+希望它更加完美？[提提宝贵建议](https://github.com/teaSummer/mcfunction_HighLight/issues/new)吧！
 
 ## 如何进行高亮？
 
@@ -40,6 +41,6 @@ MC指令文件高亮增强 (`MT管理器`)
 
 最新版 日期：2023.8.31
 
-*感谢使用！* 有问题记得[反馈](https://github.com/teaSummer/mcfunction_HighLight/issues)喔！
+*感谢使用！* 有问题记得[反馈](https://github.com/teaSummer/mcfunction_HighLight/issues/new)喔！
 
 希望您能喜欢！
