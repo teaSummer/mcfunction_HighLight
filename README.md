@@ -9,7 +9,7 @@ MC指令文件高亮增强 (`MT管理器`)
 
 ### 下载
 
-从仓库上下载 `.mtsx` 文件，
+从[仓库上](https://github.com/teaSummer/mcfunction_HighLight/tree/main/下载)下载 `.mtsx` 文件，
 
 或通过 `123云盘` 链接进行下载：
 
