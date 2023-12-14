@@ -27,11 +27,9 @@ MC指令文件高亮增强 (`MT管理器`)
 
 ### 效果示例图
 
-正在准备中...
-
-[黑暗模式](#)
+[黑暗模式](https://cccimg.com/view.php/0d692f78c8b91a3dacb1bc167bd695c4.jpg)
 与
-[明亮模式](#)
+[明亮模式](https://cccimg.com/view.php/9eb162e7e3025496e1c67ca64798a4d1.jpg)
 
 ## 注意！
 
