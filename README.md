@@ -3,13 +3,13 @@ MC指令文件高亮增强 (`MT管理器`)
 
 （确切地说，是`MT管理器`的语法文件）
 
-希望它更加完美？[提提宝贵建议](https://github.com/teaSummer/mcfunction_HighLight/issues/new)吧！
+希望它更加完美？[提提宝贵建议](https://githubfast.com/teaSummer/mcfunction_HighLight/issues/new)吧！
 
 ## 如何进行高亮？
 
 ### 下载
 
-从[仓库上](https://github.com/teaSummer/mcfunction_HighLight/tree/main/下载)下载 `.mtsx` 文件，
+从[仓库上](https://githubfast.com/teaSummer/mcfunction_HighLight/tree/main/下载)下载 `.mtsx` 文件，
 
 或通过 `123云盘` 链接进行下载：
 
@@ -27,9 +27,11 @@ MC指令文件高亮增强 (`MT管理器`)
 
 ### 效果示例图
 
-[黑暗模式](https://img1.imgtp.com/2023/08/31/tTrPboR8.png)
+正在准备中...
+
+[黑暗模式](#)
 与
-[明亮模式](https://img1.imgtp.com/2023/08/31/6z7ruGqY.png)
+[明亮模式](#)
 
 ## 注意！
 
@@ -41,7 +43,7 @@ MC指令文件高亮增强 (`MT管理器`)
 
 最新版 日期：2023.8.31
 
-*感谢使用！* 有问题记得[反馈](https://github.com/teaSummer/mcfunction_HighLight/issues/new)喔！
+*感谢使用！* 有问题记得[反馈](https://githubfast.com/teaSummer/mcfunction_HighLight/issues/new)喔！
 
 希望您能喜欢！
 
